@@ -5,6 +5,7 @@ description = "embedchain is a framework to easily create LLM powered bots over 
 authors = ["Taranjeet Singh"]
 license = "Apache License"
 readme = "README.md"
+path = "embedchain/"  # Path to the main package
 
 [build-system]
 requires = ["setuptools", "wheel"]
